@@ -1,5 +1,5 @@
 # Hello-World
-# My First Repository
+## My First Repository
 
 # Description
 This project was developed as part of **BAIS:3050 BAIS Professional Preparation**.  
@@ -25,3 +25,7 @@ The main goals of this project are:
  
   # Additional Information
   - Created as part of an assignment for BAIS Professional Preparation
+ 
+  ~~Created~~ by *Tyler Skrabis*
+  
+  
